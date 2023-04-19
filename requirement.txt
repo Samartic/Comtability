@@ -7,3 +7,4 @@ re
 datetime
 test.db 
 logo.png
+breeze-dark theme
