@@ -3,5 +3,7 @@ helper.py
 ttk
 tk
 PIL
+re
+datetime
 test.db 
 logo.png
