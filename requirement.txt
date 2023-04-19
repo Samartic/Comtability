@@ -3,3 +3,5 @@ helper.py
 ttk
 tk
 PIL
+test.db 
+logo.png
